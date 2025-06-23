@@ -35,6 +35,9 @@ I'm currently focused on:
 - **Content Discovery Lab** (TryHackMe Notes)  
   🔗 [Web Content Discovery](https://github.com/ctobenna/Web-Content-Discovery-TryHackMe-Notes-/blob/main/README.md)
 
+- **Subdomain Enumeration Study** (TryHackMe Notes)  
+  🔗 [Subdomain Enumeration](https://github.com/ctobenna/-Subdomain-Enumeration-Study-Summary/blob/main/README.md)
+
 ---
 
 ### 🌐 IP Network Projects
