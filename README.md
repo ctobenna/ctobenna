@@ -44,6 +44,8 @@ I'm currently focused on:
 
 - **Core Network Simulation – Policy-Based Routing**  
   🔗 [Policy Based Routing Lab](https://github.com/ctobenna/Policy-Based-Routing/blob/main/README.md)
+- **🚀 MPLS Layer 3 VPN Lab – Real-World Provider Network Simulation**  
+  🔗 [ MPLS Layer 3 VPN Lab](https://github.com/ctobenna/MPLS-Layer-3-VPN-Lab/blob/main/README.md)
 
 ---
 
